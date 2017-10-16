@@ -1,16 +1,19 @@
 body {
-background:#000;
- font-family: helvetica cursive;
+  background: grey;
+  font-family: helvetica cursive;
 }
-h1, h2, h3 {color:#333; font-family: helvetica
+h1, h2, h3 {
+  color: magenta;
+  font-family: helvetica
 }
 a {color:#500;
   font-family: arial
 }
 
 p {
-  background-color:#999;
+  background-color: lightgrey;
   font-family: arial fantasy;
+  padding: 20px,
 }
 header {
   font-family: helvetica;
