@@ -13,14 +13,14 @@ a {color:#1e607b;
 }
 
 p {
-  background-color: #b1b4bf;
-  font-family: arial fantasy;
-  padding: 20px,
+  color: #1e607b;
+  font-family: helvetica fantasy;
+  margin-left: 10px,
 }
 header {
   font-family: helvetica;
-  background: #999;
-  padding: 0px;
-  margin: 15px
+  background: #dcdcdf;
+  padding: 15px;
+  margin: 0px
 
 }
