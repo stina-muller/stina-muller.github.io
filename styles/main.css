@@ -1,8 +1,10 @@
 body {
-  background: #900
+font-family: helvetica
+color: 900
+background:#420
 }
 header {
-  font-family: arial cursive;
+  font-family: helvetica
   color: #875}
 a {color: #394
 }
