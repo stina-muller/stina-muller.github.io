@@ -2,25 +2,26 @@ body {
   background: #eaeaea;
   font-family: helvetica;
   color: #f2f2fc;
+  margin: 100px;
 }
 h1, h2, h3 {
   color: #35a0bb;
   font-family: helvetica;
+  margin: 100px;
 
 }
 a {color:#1e607b;
   font-family: helvetica
+  margin: 100px;
 }
 
 p {
   color: #1e607b;
-  font-family: helvetica fantasy;
-  margin-left: 10px,
+  font-family: helvetica;
+  margin-left: 100px,
 }
 header {
   font-family: helvetica;
-  background: #dcdcdf;
-  padding: 15px;
-  margin: 0px
-
+  background: #e1e1e1;
+  margin: 100px;
 }
