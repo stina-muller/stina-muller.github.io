@@ -1,22 +1,26 @@
 body {
-  background: grey;
-  font-family: helvetica cursive;
+  background: #eaeaea;
+  font-family: helvetica;
+  color: #f2f2fc;
 }
 h1, h2, h3 {
-  color: magenta;
-  font-family: helvetica
+  color: #35a0bb;
+  font-family: helvetica;
+
 }
-a {color:#500;
-  font-family: arial
+a {color:#1e607b;
+  font-family: helvetica
 }
 
 p {
-  background-color: lightgrey;
+  background-color: #b1b4bf;
   font-family: arial fantasy;
   padding: 20px,
 }
 header {
   font-family: helvetica;
   background: #999;
+  padding: 0px;
+  margin: 15px
 
 }
