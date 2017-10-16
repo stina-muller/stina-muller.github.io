@@ -25,6 +25,7 @@ p {
 header {
   font-family: helvetica;
   background: #e1e1e1;
-  margin: 100px;
+  margin: 0px;
+  padding: 30px;
   align-content: center;
 }
