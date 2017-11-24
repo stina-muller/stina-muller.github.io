@@ -30,6 +30,7 @@ p {
 }
 header {
   font-family: helvetica;
+  size: 12;
   background: #bdc2c5;
   margin: 0px;
   padding: 45px;
