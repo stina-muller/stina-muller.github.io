@@ -10,7 +10,7 @@ h1 {
   color: #bdc2c5;
   font-family: helvetica;
   font-weight: lighter;
-  font-size: 12px
+  font-size: 8px
   padding: 0px;
   text-align: center;
   background: #f2f0f3;
@@ -30,13 +30,13 @@ p {
 }
 header {
   font-family: helvetica;
-  size: 12;
   background: #bdc2c5;
   margin: 0px;
   padding: 45px;
   align-content: center;
   text-align: center;
 }
+
 row {
   align-content: center;
 }
@@ -48,7 +48,7 @@ footer {
   align-content: center;
   text-align: center;
 }
-webkit{
+webkit {
   box-sizing: border-box;
 
 }
