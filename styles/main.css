@@ -6,11 +6,10 @@ body {
   color: #f2f2fc;
   margin: 0px;
 }
-h1 {
+h1, h2, h3 {
   color: #bdc2c5;
   font-family: helvetica;
   font-weight: lighter;
-  font-size: 8px
   padding: 0px;
   text-align: center;
   background: #f2f0f3;
