@@ -9,3 +9,14 @@ body {
   border-radius: 0.5rem;
   box-shadow: 0.5rem 0.5rem 0 0 #aaa;
 }
+
+.h1 {
+  font-family: helvetica;
+  font-stretch: extra-expanded;
+  color: blue;
+  text-align: center;
+  background-color: grey;
+}
+.p{
+  text-align: center;
+}
