@@ -15,8 +15,15 @@ body {
   font-stretch: extra-expanded;
   color: blue;
   text-align: center;
-  background-color: grey;
+  background-color: grey
 }
 .p{
+  text-align: center;
+}
+.container{
+  text-align: center;
+}
+
+.row{
   text-align: center;
 }
