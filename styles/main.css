@@ -43,7 +43,9 @@ h6 {
   color: #858788;
   font-family: helvetica;
   margin: 20px;
-  text-align: justify;
+  padding: 45px
+  text-align: center;
+  background-color: #bdc2c5
 }
 
 row {
