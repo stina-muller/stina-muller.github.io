@@ -37,8 +37,10 @@ header {
   color: white;
   font-family: helvetica;
   background: #bdc2c5;
+  text-align: center;
   margin: 30px;
   padding:20px
+
 }
 
 footer {
