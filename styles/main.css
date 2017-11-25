@@ -37,9 +37,8 @@ header {
   color: white;
   font-family: helvetica;
   background: #bdc2c5;
-  margin: 10px;
-  align-content: center;
-  text-align: center;
+  margin: 30px;
+  padding:20px
 }
 
 footer {
