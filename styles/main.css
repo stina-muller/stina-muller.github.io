@@ -6,11 +6,18 @@ body {
   margin: 0px;
 }
 
-h6 {
+h5 {
   text-align: center;
   color: #858788;
   font-family: helvetica;
   margin: 10px;
+}
+
+h6 {
+  text-align: left;
+  color: #858788;
+  font-family: helvetica;
+  margin: 5px;
 }
 
 p {
@@ -21,13 +28,14 @@ p {
 }
 
 a {
-  color:#858788;
+  color:#turquoise;
+  font-style: normal;
   font-family: helvetica;
   margin: 10px;
 }
 
 header {
-  color: #fefefe;
+  color: white;
   font-family: helvetica;
   background: #bdc2c5;
   margin: 10px;
