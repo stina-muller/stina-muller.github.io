@@ -3,7 +3,7 @@ body {
   align-content: center;
   background: #fefefe;
   font-family: helvetica;
-  color: #f2f2fc;
+  color: #bdc2c5;
   margin: 0px;
 }
 h1, h2, h3, h4 {
@@ -28,7 +28,6 @@ p {
   font-family: helvetica;
   margin: 10px;
   padding: 30px
-  text-align: justify;
 }
 header {
   font-family: helvetica;
@@ -44,8 +43,6 @@ h6 {
   font-family: helvetica;
   margin: 20px;
   padding: 45px
-  text-align: center;
-  background-color: #bdc2c5
 }
 
 row {
