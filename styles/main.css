@@ -35,6 +35,12 @@ header {
   align-content: center;
   text-align: center;
 }
+li{
+  color: #858788;
+  font-family: helvetica;
+  margin: 20px;
+  text-align: justify;
+}
 
 row {
   align-content: center;
